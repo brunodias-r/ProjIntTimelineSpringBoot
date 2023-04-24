@@ -46,7 +46,6 @@ public class UsuarioService {
 		//return new ResponseEntity<List<Usuario>>(usuarios, HttpStatus.OK);
 	}	
 	
-	
 //	@Transactional
 //	public Page<UsuarioResponse> buscarUsuarios(PaginacaoRequest paginacaoRequest) {
 //		Pageable pageable = PageRequest.of(paginacaoRequest.getPagina(), paginacaoRequest.getItensPorPagina());
